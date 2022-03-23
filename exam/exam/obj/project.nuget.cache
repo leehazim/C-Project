@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "euwc7gEM/v0Dsfv0I17YcDmH63F2B493sNmy5lvAMM1Agvs35Vv5UET5A5ziQnNtNvkbWVu09nYuXwPKxupN2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prett\\Documents\\GitHub\\C-Project\\exam\\exam\\exam1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prett\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

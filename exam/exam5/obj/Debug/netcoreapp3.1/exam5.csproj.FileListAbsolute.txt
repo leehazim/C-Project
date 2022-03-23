@@ -1,0 +1,13 @@
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.exe
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.deps.json
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.runtimeconfig.json
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.runtimeconfig.dev.json
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.dll
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\bin\Debug\netcoreapp3.1\exam5.pdb
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.AssemblyInfoInputs.cache
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.AssemblyInfo.cs
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.csproj.CoreCompileInputs.cache
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.dll
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.pdb
+C:\Users\prett\Documents\GitHub\C-Project\exam\exam5\obj\Debug\netcoreapp3.1\exam5.genruntimeconfig.cache
